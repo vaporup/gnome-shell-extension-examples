@@ -6,7 +6,7 @@
 Welcome to gnome-shell-extension-examples's documentation!
 ==========================================================
 
-Contents:
+https://github.com/vaporup/gnome-shell-extension-examples
 
 .. toctree::
    :maxdepth: 2
