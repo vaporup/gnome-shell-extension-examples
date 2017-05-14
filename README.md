@@ -1,3 +1,3 @@
 # gnome-shell-extension-examples
 
-http://gnome-shell-extension-examples.readthedocs.io/en/latest/
+http://gnome-shell-extension-examples.readthedocs.io
