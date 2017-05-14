@@ -1,0 +1,6 @@
+{
+    "name": "gsettings1 example",
+    "uuid": "gsettings1-example",
+    "shell-version": ["3.16", "3.14", "3.12", "3.10", "3.22"], 
+    "description": "Gets an Integer from gsettings and logs it"
+}
