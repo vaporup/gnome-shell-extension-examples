@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to gnome-shell-extension-examples's documentation!
-==========================================================
+Gnome Shell Extension Examples
+==============================
 
 https://github.com/vaporup/gnome-shell-extension-examples
 
@@ -12,11 +12,4 @@ https://github.com/vaporup/gnome-shell-extension-examples
    :maxdepth: 2
 
    gsettings1
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 

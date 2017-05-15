@@ -1,5 +1,8 @@
+Settings
+========
+
 gsettings1
-==========
+**********
 
 .. literalinclude:: src/gsettings1-example/gsettings-example.gschema.xml
    :caption: /usr/share/glib-2.0/schemas/gsettings-example.gschema.xml
