@@ -6,8 +6,6 @@
 Gnome Shell Extension Examples
 ==============================
 
-https://github.com/vaporup/gnome-shell-extension-examples
-
 .. toctree::
    :maxdepth: 2
 
